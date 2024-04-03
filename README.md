@@ -1,4 +1,3 @@
-# EarthEngineMasterGIS
 <img alt="mastergis" src="https://user-images.githubusercontent.com/16768318/73984100-c96ee500-492f-11ea-92a8-87ba3ffc1a60.jpg" align="right" width = 15%/>
 
 # **Introducción a Google Earth Engine con Python**
